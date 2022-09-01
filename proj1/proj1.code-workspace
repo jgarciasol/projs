@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\CMSC202\\cmsc202"
+		},
+		{
+			"path": ".."
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "iostream": "cpp",
+            "ostream": "cpp",
+            "stdexcept": "cpp",
+            "stack": "cpp"
+        }
+    }
+}

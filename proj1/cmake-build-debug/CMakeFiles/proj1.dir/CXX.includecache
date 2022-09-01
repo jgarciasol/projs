@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jaes1/Documents/cmsc341/proj1/driver.cpp
+graph.h
+C:/Users/jaes1/Documents/cmsc341/proj1/graph.h
+
+C:/Users/jaes1/Documents/cmsc341/proj1/graph.cpp
+graph.h
+C:/Users/jaes1/Documents/cmsc341/proj1/graph.h
+
+C:/Users/jaes1/Documents/cmsc341/proj1/graph.h
+iostream
+-
+string
+-
+fstream
+-
+stack
+-
+cstring
+-
+
